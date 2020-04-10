@@ -1,7 +1,7 @@
 //
 //  main.swift
 //  Mini reto
-//
+//  Swift: Programar para iOS
 //  Created by Diego Macias on 09/04/20.
 //
 
